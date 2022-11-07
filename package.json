@@ -1,0 +1,31 @@
+{
+  "name": "nodejs-express-sequelizejs-mysql",
+  "version": "1.0.0",
+  "description": "nodejs-express-sequelizejs-mysql",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "NodeJs-Express-SequelizeJs-MySQL"
+  ],
+  "author": "JSA",
+  "license": "ISC",
+  "dependencies": {
+    "-": "0.0.1",
+    "connect-flash": "^0.1.1",
+    "cookie-parser": "^1.4.5",
+    "cors": "^2.8.4",
+    "ejs": "^3.1.5",
+    "express": "^4.16.3",
+    "express-session": "^1.17.1",
+    "flash": "^1.1.0",
+    "mysql2": "^1.5.3",
+    "nodemon": "^2.0.6",
+    "push-js": "^1.1.1",
+    "push.js": "^1.0.12",
+    "req": "^0.1.4",
+    "sequelize": "^4.37.6",
+    "web-push": "^3.4.4"
+  }
+}
